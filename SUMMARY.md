@@ -5,4 +5,5 @@
 * [Learning Resources](second-chapter.md)
 * [Video1 \(Bootstrapping your application from a UI template\)](video1-bootstrapping-your-application-from-a-ui-template.md)
 * [Video2 \(List Records from the Database\)](video2-list-records-from-the-database.md)
+* [Video3 \(Create a Detail Screen for a Record\)](video3-create-a-detail-screen-for-a-record.md)
 
