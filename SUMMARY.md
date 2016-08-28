@@ -7,4 +7,5 @@
 * [Video2 \(List Records from the Database\)](video2-list-records-from-the-database.md)
 * [Video3 \(Create a Detail Screen for a Record\)](video3-create-a-detail-screen-for-a-record.md)
 * [Video4 \(Edit a Record from the Database\)](video4-edit-a-record-from-the-database.md)
+* [Video5 \(Create a new Record in the Database\)](video5-create-a-new-record-in-the-database.md)
 
