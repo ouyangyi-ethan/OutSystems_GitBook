@@ -12,4 +12,5 @@
 * [Video7 \(Create and Display a Relationship\)](video7-create-and-display-a-relationship.md)
 * [Video8 \(Page Lifecycle Overview | Using the Debugger\)](video8-page-lifecycle-overview--using-the-debugger.md)
 * [Similarities Between OutSystems and Appian](similarities-between-outsystems-and-appian.md)
+* [Terminology](terminology.md)
 
