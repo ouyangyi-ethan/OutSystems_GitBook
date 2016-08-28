@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [About OutSystems Platform](chapter1.md)
-* Second Chapter
+* [Learning Resources](second-chapter.md)
 
