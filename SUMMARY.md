@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [About OutSystems Platform](chapter1.md)
 * Second Chapter
 
