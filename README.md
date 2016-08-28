@@ -1,3 +1,6 @@
-# My Awesome Book
+# OutSystems Development
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book contains notes compiled while learning OutSystems Development. OutSystems is a low code development platform.
+
+It also notes the similarities and the differences with Appian - a BPM and low-code platform.
+
