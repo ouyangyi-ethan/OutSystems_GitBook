@@ -13,4 +13,5 @@
 * [Video8 \(Page Lifecycle Overview | Using the Debugger\)](video8-page-lifecycle-overview--using-the-debugger.md)
 * [Similarities Between OutSystems and Appian](similarities-between-outsystems-and-appian.md)
 * [Terminology](terminology.md)
+* [OutSystems compared to Appian](outsystems-compared-to-appian.md)
 
