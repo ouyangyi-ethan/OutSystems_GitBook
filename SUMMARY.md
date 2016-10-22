@@ -15,5 +15,5 @@
 * [Terminology](terminology.md)
 * [OutSystems compared to Appian](outsystems-compared-to-appian.md)
 * [OutSystems - Mobile App Development](outsystems---mobile-app-development.md)
-* [SikUI](sikui.md)
+* [SilkUI](sikui.md)
 
