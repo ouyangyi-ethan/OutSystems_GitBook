@@ -14,6 +14,6 @@
 * [Similarities Between OutSystems and Appian](similarities-between-outsystems-and-appian.md)
 * [Terminology](terminology.md)
 * [OutSystems compared to Appian](outsystems-compared-to-appian.md)
-* [OutSystems - Mobile App Development](outsystems---mobile-app-development.md)
+* [OutSystems Mobile App Development](outsystems-mobile-app-development.md)
 * [SilkUI](silkui.md)
 
